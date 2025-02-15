@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hiii There<br>👯 I'm PesionZhao from Xi'An JiaoTong university.<br>🌱 I'm currently studying AI and nonlinear optimization.<br>🤔 I hope I can get an internship opportunity. btw, my WechatID is ZPS2357394024
+👋 Hiii There<br>👯 I'm PesionZhao from Xi'An JiaoTong university.<br>🌱 I'm currently studying AI and nonlinear optimization.<br>🤔 I hope I can get an internship opportunity. btw, my Wechat ID is ZPS2357394024
 
 
 # 💻 Tech Stack:
@@ -10,6 +10,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pesionzhao&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pesionzhao&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=pesionzhao&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -18,7 +20,11 @@
 **pesionzhao/pesionzhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## Pin
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pesionzhao&repo=Seismic_AVO_Inversion)](https://github.com/pesionzhao/Seismic_AVO_Inversion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pesionzhao&repo=Simple_CUDA_NN)](https://github.com/pesionzhao/Simple_CUDA_NN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pesionzhao&repo=Engineer_Vision)](https://github.com/pesionzhao/Engineer_Vision)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
